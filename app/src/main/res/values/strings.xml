@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">天天向上</string>
+    <string name="title_home">进度</string>
+    <string name="title_dashboard">存钱</string>
+    <string name="title_notifications">添加目标</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
